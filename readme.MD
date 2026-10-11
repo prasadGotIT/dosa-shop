@@ -8,8 +8,10 @@
 *  Red karam
 * oil
 
+<<<<<<< HEAD
 
 ## egg Dosa
 * dosa batter
-* 2eggs and karam
+* 1or2eggs and karam
+
 
