@@ -8,7 +8,6 @@
 *  Red karam
 * oil
 
-<<<<<<< HEAD
 
 ## egg Dosa
 * dosa batter
