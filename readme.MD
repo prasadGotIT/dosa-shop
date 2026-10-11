@@ -17,9 +17,4 @@
 
 ## Mushroom Dosa
 * Dosa batter
-<<<<<<< HEAD
 * Mushroom masala
-* Butter
-* Dry fruits
-=======
->>>>>>> parent of 55dd217 (mushroom masala)
