@@ -23,3 +23,4 @@
 * cheese and butter
 * garam masala
 * pepper corriander
+* special masala
