@@ -17,3 +17,4 @@
 
 ## Paneer Dosa
 * dosa batter
+* paneer
