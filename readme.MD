@@ -15,3 +15,12 @@
 * 1or2eggs and karam
 
 
+## Paneer Dosa
+* dosa batter
+* paneer
+* carrot
+* Beetroot
+* cheese and butter
+* garam masala
+* pepper corriander
+* special masala
