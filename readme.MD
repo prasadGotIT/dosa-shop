@@ -19,3 +19,4 @@
 * dosa batter
 * paneer
 * carrot
+* Beetroot
