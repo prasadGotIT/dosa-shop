@@ -11,4 +11,5 @@
 
 ## egg Dosa
 * dosa batter
-* egg and karam
+* 2eggs and karam
+
